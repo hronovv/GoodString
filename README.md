@@ -8,3 +8,4 @@
 1. Custom iterators (begin, reverse, const)
 2. Rule of 5
 3. Unique ptr & custom destructor
+4 `std::optional`
